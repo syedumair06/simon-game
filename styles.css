@@ -29,6 +29,10 @@ body {
   margin: 7px
 }
 
+.btn:hover
+{
+  cursor:pointer;
+}
 
 .main
 {
